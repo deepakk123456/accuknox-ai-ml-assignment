@@ -20,4 +20,8 @@ It includes examples of working with REST APIs, CSV files, SQLite databases, and
 - SQLite is sufficient for demonstration and testing purposes.
 
 ## How to Run
-1. Install dependencies:
+pip install -r requirements.txt
+python api_books.py
+python students_scores.py
+python csv_to_db.py
+
