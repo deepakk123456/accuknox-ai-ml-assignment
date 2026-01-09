@@ -34,3 +34,14 @@ python api_books.py
 python students_scores.py
 python csv_to_db.py
 
+## Problem Statement 2 (Theory)
+
+Theoretical responses covering:
+- Self-assessment in AI/ML/LLMs
+- High-level LLM chatbot architecture
+- Vector databases and selection rationale
+
+📄 File: Problem_Statement_2_AI_ML.pdf  
+🎥 Explanation video available in Drive link
+
+
